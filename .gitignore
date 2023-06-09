@@ -5,3 +5,4 @@ __pycache__/API_KEYS.cpython-311.pyc
 __pycache__/MysqlConn.cpython-311.pyc
 03-Samples/table_infos.txt
 03-Samples/chroma
+02-Modules/02-Prompts/feast/
